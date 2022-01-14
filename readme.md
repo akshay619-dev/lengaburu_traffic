@@ -1,5 +1,7 @@
 # Lengaburu Traffic
 
+- ![Alt text](https://raw.githubusercontent.com/akshay619-dev/lengaburu_traffic/master/lengaburu_traffic_demo.gif)
+
 - ## Initial Setup
     - Run `composer install` for install the dependancies 
 
