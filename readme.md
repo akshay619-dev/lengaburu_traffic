@@ -1,4 +1,4 @@
-# Lengaburu Traffic
+# Lengaburu Traffic : GT Coding Challenge
 
 - ![Alt text](https://raw.githubusercontent.com/akshay619-dev/lengaburu_traffic/master/lengaburu_traffic_demo.gif)
 
